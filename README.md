@@ -159,6 +159,12 @@ The application includes five interactive sections:
 4. **Model Performance:** Evaluation metrics, prediction comparisons, and residual analysis.
 5. **Feature Importance:** Relative importance of the model's nine input features.
 
+### ROP Prediction Dashboard
+
+The interactive Streamlit dashboard allows users to enter drilling parameters and generate Random Forest estimates of Rate of Penetration (ROP).
+
+![ROP Prediction Dashboard](screenshots/rop_prediction.png)
+
 ### Data Availability
 
 The original and processed USROP datasets are not included in this repository.
