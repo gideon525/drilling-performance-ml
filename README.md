@@ -165,6 +165,12 @@ The interactive Streamlit dashboard allows users to enter drilling parameters an
 
 ![ROP Prediction Dashboard](screenshots/rop_prediction.png)
 
+### Model Performance Dashboard
+
+The Model Performance dashboard presents the Random Forest model's evaluation results on held-out wells, including MAE, RMSE, R², comparisons with the baseline model, and prediction error visualizations.
+
+![Model Performance Dashboard](screenshots/model_performance.png)
+
 ### Data Availability
 
 The original and processed USROP datasets are not included in this repository.
