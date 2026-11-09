@@ -24,3 +24,6 @@ Thumbs.db
 
 # Local logs
 *.log
+requirements_backup.txt
+
+.venv_test/
